@@ -52,7 +52,5 @@ Gaming | Classic Boxing | Weight Lifting | Flying Drones
 
 Feel free to explore my repositories and reach out for collaboration opportunities! 😊  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
